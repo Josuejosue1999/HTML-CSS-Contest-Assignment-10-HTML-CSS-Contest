@@ -1,1 +1,1 @@
-# HTML-CSS-Contest-Assignment-10-HTML-CSS-Contest
+# HTML-CSS-Contest
